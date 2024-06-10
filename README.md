@@ -1,7 +1,6 @@
 ### Hi there 👋, 
 
-# I am Qamaruddin Khichi
-#### Data Analyst / Business Analyst 
+# I am Qamaruddin Khichi - Data Analyst / Business Analyst
 
 ![Data Analyst / Business Analyst ](https://media.licdn.com/dms/image/D4D16AQGPr9gUpjDCvQ/profile-displaybackgroundimage-shrink_350_1400/0/1708583012236?e=1723680000&v=beta&t=1R2iRgEbpe21iR6cwA3TtSkzyF45an3S95HfNf6Aceg)
 
