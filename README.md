@@ -10,11 +10,9 @@ I am doing my bachelor's in Economics and learning Data Analytics in my spare ti
 1. [Skills](#skills)
 2. [Data Analyst Roadmap](#data-analyst-roadmap)
 3. [SQL Complete Roadmap](#sql-complete-roadmap)
-4. [Python Books](#python-books)
-5. [SQL Material](#sql-material-books-cheat-sheets--notes)
-6. [Contact Details](#contact-details)
-7. [Courses](#courses)
-8. [Education](#education)
+4. [Contact Details](#contact-details)
+5. [Courses](#courses)
+6. [Education](#education)
 
 ## Skills
 ### SQL (MySQL, SQL Server, PostgreSQL)
@@ -30,16 +28,6 @@ I am doing my bachelor's in Economics and learning Data Analytics in my spare ti
 
 ## SQL Complete Roadmap
 [SQL Complete Roadmap](https://github.com/qamaruddin-khichi/SQL-Complete-Roadmap.git)
-
----
-
-## Python Books
-[Python Books](https://github.com/qamaruddin-khichi/python-most-popular-books.git)
-
----
-
-## SQL Material (Books, Cheat-Sheets, & Notes)
-[SQL Material](https://github.com/qamaruddin-khichi/SQL-material-books-notes.git)
 
 ---
 
@@ -64,7 +52,7 @@ I am doing my bachelor's in Economics and learning Data Analytics in my spare ti
 
 **MICROSOFT POWER BI DATA ANALYST – Microsoft**
 - In this detailed course of Power BI, I completed 8 different courses ranging from basics to advanced.
-- Learned data preparation, data cleaning, data analysis, data storytelling, and reports and dashboards generation from raw data.
+- Learned data preparation, data cleaning, data analysis, data storytelling, and reports and dashboard generation from raw data.
 
 **MICROSOFT 365 FUNDAMENTALS – Microsoft**
 - Learned the usage of Microsoft Office (Word, PowerPoint, & Excel) in day-to-day tasks.
