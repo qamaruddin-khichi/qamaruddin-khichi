@@ -31,15 +31,6 @@ I am doing my bachelor's in Economics and learning Data Analytics in my spare ti
 
 ---
 
-- 🔭 I’m currently working on my skills. 
-- 🌱 I’m currently learning Python. 
-- 👯 I’m looking to collaborate on different projects which can help us mutually. 
-- 🤔 I’m looking for help with enhancing my data skills 
-- 💬 Ask me about Developing dashboards, reports using BI tools 
-- 📫 How to reach me: Feel free to reach me via email or LinkedIn
-
----
-
 ## Contact Details
 
 **Call:** +92-318-815444-1  
