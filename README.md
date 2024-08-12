@@ -2,7 +2,7 @@
 
 # I am Qamaruddin Khichi - Data Analyst / Business Analyst
 
-![Data Analyst / Business Analyst](https://media.licdn.com/dms/image/D4D16AQGPr9gUpjDCvQ/profile-displaybackgroundimage-shrink_350_1400/0/1708583012236?e=1723680000&v=beta&t=1R2iRgEbpe21iR6cwA3TtSkzyF45an3S95HfNf6Aceg)
+![Data Analyst](https://github.com/user-attachments/assets/052495eb-5c2a-4ab6-99a1-3bf8c92c7ec7)
 
 I am doing my bachelor's in Economics and learning Data Analytics in my spare time. I have learned Excel, Statistics, Power BI, & SQL. I am learning Python now.
 
