@@ -15,6 +15,8 @@ I am doing my bachelor's in Economics and learning Data Analytics in my spare ti
 6. [Education](#education)
 
 ## Skills
+
+### Python (NumPy, Pandas)
 ### SQL (MySQL, SQL Server, PostgreSQL)
 ### Microsoft Power BI (DAX, Power Query, Dashboards, Reports)
 ### Microsoft Excel (XLOOKUP, VLOOKUP, Conditional Formatting, Pivot Tables)
