@@ -11,9 +11,11 @@ I am doing my bachelor's in Economics and learning Data Analytics in my spare ti
 2. [Data Analyst Roadmap](#data-analyst-roadmap)
 3. [SQL Complete Roadmap](#sql-complete-roadmap)
 4. [Python Complete Roadmap](#python-complete-roadmap)
-5. [Contact Details](#contact-details)
-6. [Courses](#courses)
-7. [Education](#education)
+5. [Power BI Complete Roadmap](#power-bi-complete-roadmap)
+6. [Excel Complete Roadmap](#excel-complete-roadmap)
+7. [Contact Details](#contact-details)
+8. [Courses](#courses)
+9. [Education](#education)
 
 ## Skills
 
@@ -36,6 +38,16 @@ I am doing my bachelor's in Economics and learning Data Analytics in my spare ti
 
 ## Python Complete Roadmap
 [Python Complete Roadmap](https://github.com/qamaruddin-khichi/Python-Complete-Roadmap.git)
+
+---
+
+## Power BI Complete Roadmap
+[Power BI Complete Roadmap](https://github.com/qamaruddin-khichi/Power-BI-Complete-Roadmap.git)
+
+---
+
+## Excel Complete Roadmap
+[Excel Complete Roadmap](https://github.com/qamaruddin-khichi/Excel-Complete-Roadmap.git)
 
 ---
 
