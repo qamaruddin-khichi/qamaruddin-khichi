@@ -10,9 +10,10 @@ I am doing my bachelor's in Economics and learning Data Analytics in my spare ti
 1. [Skills](#skills)
 2. [Data Analyst Roadmap](#data-analyst-roadmap)
 3. [SQL Complete Roadmap](#sql-complete-roadmap)
-4. [Contact Details](#contact-details)
-5. [Courses](#courses)
-6. [Education](#education)
+4. [Python Complete Roadmap](#python-complete-roadmap)
+5. [Contact Details](#contact-details)
+6. [Courses](#courses)
+7. [Education](#education)
 
 ## Skills
 
@@ -30,6 +31,11 @@ I am doing my bachelor's in Economics and learning Data Analytics in my spare ti
 
 ## SQL Complete Roadmap
 [SQL Complete Roadmap](https://github.com/qamaruddin-khichi/SQL-Complete-Roadmap.git)
+
+---
+
+## Python Complete Roadmap
+[Python Complete Roadmap](https://github.com/qamaruddin-khichi/Python-Complete-Roadmap.git)
 
 ---
 
