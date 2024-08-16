@@ -7,15 +7,17 @@
 I am doing my bachelor's in Economics and learning Data Analytics in my spare time. I have learned Excel, Statistics, Power BI, & SQL. I am learning Python now.
 
 ## Table of Contents
+
 1. [Skills](#skills)
-2. [Data Analyst Roadmap](#data-analyst-roadmap)
-3. [SQL Complete Roadmap](#sql-complete-roadmap)
-4. [Python Complete Roadmap](#python-complete-roadmap)
-5. [Power BI Complete Roadmap](#power-bi-complete-roadmap)
-6. [Excel Complete Roadmap](#excel-complete-roadmap)
-7. [Contact Details](#contact-details)
-8. [Courses](#courses)
-9. [Education](#education)
+2. [Contact Details](#contact-details)
+3. [Courses](#courses)
+4. [Education](#education)
+5. [Data Analyst Roadmap](#data-analyst-roadmap)
+6. [SQL Complete Roadmap](#sql-complete-roadmap)
+7. [Python Complete Roadmap](#python-complete-roadmap)
+8. [Power BI Complete Roadmap](#power-bi-complete-roadmap)
+9. [Excel Complete Roadmap](#excel-complete-roadmap)
+
 
 ## Skills
 
@@ -23,31 +25,6 @@ I am doing my bachelor's in Economics and learning Data Analytics in my spare ti
 ### SQL (MySQL, SQL Server, PostgreSQL)
 ### Microsoft Power BI (DAX, Power Query, Dashboards, Reports)
 ### Microsoft Excel (XLOOKUP, VLOOKUP, Conditional Formatting, Pivot Tables)
-
----
-
-## Data Analyst Roadmap
-[Data Analyst Roadmap](https://github.com/qamaruddin-khichi/Data-Analyst-Road-map.git)
-
----
-
-## SQL Complete Roadmap
-[SQL Complete Roadmap](https://github.com/qamaruddin-khichi/SQL-Complete-Roadmap.git)
-
----
-
-## Python Complete Roadmap
-[Python Complete Roadmap](https://github.com/qamaruddin-khichi/Python-Complete-Roadmap.git)
-
----
-
-## Power BI Complete Roadmap
-[Power BI Complete Roadmap](https://github.com/qamaruddin-khichi/Power-BI-Complete-Roadmap.git)
-
----
-
-## Excel Complete Roadmap
-[Excel Complete Roadmap](https://github.com/qamaruddin-khichi/Excel-Complete-Roadmap.git)
 
 ---
 
@@ -81,3 +58,30 @@ I am doing my bachelor's in Economics and learning Data Analytics in my spare ti
 **BACHELOR OF ECONOMICS – University of Sindh, Jamshoro – Jan 2021 - Present**
 - Majors: Development Economics, Public Sector Economics, International Trade.
 - Compulsory: Statistics, Mathematics, & English.
+
+---
+
+## Data Analyst Roadmap
+[Data Analyst Roadmap](https://github.com/qamaruddin-khichi/Data-Analyst-Road-map.git)
+
+---
+
+## SQL Complete Roadmap
+[SQL Complete Roadmap](https://github.com/qamaruddin-khichi/SQL-Complete-Roadmap.git)
+
+---
+
+## Python Complete Roadmap
+[Python Complete Roadmap](https://github.com/qamaruddin-khichi/Python-Complete-Roadmap.git)
+
+---
+
+## Power BI Complete Roadmap
+[Power BI Complete Roadmap](https://github.com/qamaruddin-khichi/Power-BI-Complete-Roadmap.git)
+
+---
+
+## Excel Complete Roadmap
+[Excel Complete Roadmap](https://github.com/qamaruddin-khichi/Excel-Complete-Roadmap.git)
+
+---
