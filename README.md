@@ -64,24 +64,14 @@ I am doing my bachelor's in Economics and learning Data Analytics in my spare ti
 ## Data Analyst Roadmap
 [Data Analyst Roadmap](https://github.com/qamaruddin-khichi/Data-Analyst-Road-map.git)
 
----
-
 ## SQL Complete Roadmap
 [SQL Complete Roadmap](https://github.com/qamaruddin-khichi/SQL-Complete-Roadmap.git)
-
----
 
 ## Python Complete Roadmap
 [Python Complete Roadmap](https://github.com/qamaruddin-khichi/Python-Complete-Roadmap.git)
 
----
-
 ## Power BI Complete Roadmap
 [Power BI Complete Roadmap](https://github.com/qamaruddin-khichi/Power-BI-Complete-Roadmap.git)
 
----
-
 ## Excel Complete Roadmap
 [Excel Complete Roadmap](https://github.com/qamaruddin-khichi/Excel-Complete-Roadmap.git)
-
----
